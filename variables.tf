@@ -1,5 +1,5 @@
 variable "environment" {
   description = "Target environment name."
   type        = string
-  default     = "development"
+  default     = "staging"
 }
